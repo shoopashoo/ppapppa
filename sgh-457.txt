@@ -4,9 +4,17 @@ s
 rnbg tyi
 ey
 jt7otum
+<<<<<<< HEAD
  gdrdjgj
+=======
+ gd
+>>>>>>> 011a016baf2d728cfd05fe8746bfad800d0605ee
 ghk
 rym 
 v 
 dgkt
+<<<<<<< HEAD
 erykruilh   6fi tj tj eifymftikryyrfkt euy
+=======
+erykruilh   6fi tj tj eifymftikryyrfkt
+>>>>>>> 011a016baf2d728cfd05fe8746bfad800d0605ee
